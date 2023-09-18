@@ -1,9 +1,7 @@
 
 <a href="https://thesreeram.github.io/">
-  <img class="masterhead-image" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt="MasterHead" height="200" width=100%>
+  <img class="masterhead-image" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt="MasterHead" height="170" width=100%>
 </a>
-
-### Hi there 👋
 
 <h1 align="center">Hey 👋, I'm Sreeram Panigrahi</h1>
 <h3 align="center">A multifaceted backend developer from India</h3>
@@ -11,13 +9,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesreeram&label=Profile%20views&color=0e75b6&style=flat" alt="thesreeram" /> </p>
 
-- 👨🏻‍💻 I’m currently working on **Java, Springboot, Go, AWS**
+- 💻 I'm currently working as **Backend Developer** in **Swiggy**
+  
+- 🏫 I graduated from **BITS Pilani**, India with B.E. ECE and M.S. Chemistry
+
+- 👨🏻‍💻 I’m working on **Java, Springboot, Go, AWS**
 
 - 💬 Ask me about **Backend, Scalability, System Design**
 
 - 📫 How to reach me **panigrahi.sreeram@gmail.com**
 
-- ⚡ Fun fact **Juggling between imposter syndrome, befriending AI, scaling systems and finding 42**
+- ⚡ Fun fact **Juggling between imposter syndrome, befriending AI, scaling systems and looking for 42**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
