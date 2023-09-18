@@ -4,7 +4,7 @@
 </a>
 
 <h1 align="center">Hey 👋, I'm Sreeram Panigrahi</h1>
-<h3 align="center">A multifaceted backend developer from India</h3>
+<h3 align="center">A multifaceted <b>Software developer</b></h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/37/72/1b/37721b307ace0fe8bfd07f9dd34affef.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesreeram&label=Profile%20views&color=0e75b6&style=flat" alt="thesreeram" /> </p>
@@ -36,3 +36,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesreeram&show_icons=true&locale=en&layout=compact" alt="thesreeram" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesreeram&show_icons=true&locale=en" alt="thesreeram" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesreeram&" alt="thesreeram" /></p>
