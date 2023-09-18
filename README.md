@@ -1,7 +1,13 @@
+
+<a href="https://thesreeram.github.io/">
+  <img class="masterhead-image" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt="MasterHead" height="200" width=100%>
+</a>
+
 ### Hi there 👋
 
 <h1 align="center">Hey 👋, I'm Sreeram Panigrahi</h1>
 <h3 align="center">A multifaceted backend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/37/72/1b/37721b307ace0fe8bfd07f9dd34affef.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesreeram&label=Profile%20views&color=0e75b6&style=flat" alt="thesreeram" /> </p>
 
