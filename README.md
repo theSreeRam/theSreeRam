@@ -37,4 +37,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesreeram&show_icons=true&locale=en" alt="thesreeram" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesreeram&" alt="thesreeram" /></p>
+
+---
+
+> Computing is pop culture. [...] Pop culture holds a disdain for history. Pop culture is all about identity and feeling like you're participating, It has nothing to do with cooperation, the past or the future—it's living in the present. I think the same is true of most people who write code for money. They have no idea where [their culture came from]. - _Alan Kay_
+
