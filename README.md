@@ -1,7 +1,20 @@
 
-<a href="https://thesreeram.github.io/">
-  <img class="masterhead-image" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" alt="MasterHead" height="170" width=100%>
-</a>
+<p align="center">
+  <a href="https://thesreeram.github.io/" target="_blank">
+    <img 
+      src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif"
+      alt="Portfolio Banner"
+      width="100%"
+      height="170"
+    />
+  </a>
+</p>
+
+<p align="center">
+  🔗 <a href="https://thesreeram.github.io/" target="_blank">
+  Visit My Interactive Portfolio
+  </a>
+</p>
 
 <h1 align="center">Hey 👋, I'm Sreeram Panigrahi</h1>
 <h3 align="center">A multifaceted <b>Software developer</b></h3>
